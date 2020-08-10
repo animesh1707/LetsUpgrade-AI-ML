@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="['TotalWorkingYears'] <= 1.5\ngini = 0.27\nsamples = 4410\nvalue = [3699, 711]"] ;
+1 [label="['Age'] <= 33.5\ngini = 0.5\nsamples = 275\nvalue = [141, 134]"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="['MonthlyIncome'] <= 112610.0\ngini = 0.495\nsamples = 239\nvalue = [108, 131]"] ;
+1 -> 2 ;
+3 [label="gini = 0.473\nsamples = 203\nvalue = [78, 125]"] ;
+2 -> 3 ;
+4 [label="gini = 0.278\nsamples = 36\nvalue = [30, 6]"] ;
+2 -> 4 ;
+5 [label="['MonthlyIncome'] <= 25425.0\ngini = 0.153\nsamples = 36\nvalue = [33, 3]"] ;
+1 -> 5 ;
+6 [label="gini = 0.5\nsamples = 6\nvalue = [3, 3]"] ;
+5 -> 6 ;
+7 [label="gini = 0.0\nsamples = 30\nvalue = [30, 0]"] ;
+5 -> 7 ;
+8 [label="['Age'] <= 33.5\ngini = 0.24\nsamples = 4135\nvalue = [3558, 577]"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="['YearsAtCompany'] <= 2.5\ngini = 0.316\nsamples = 1483\nvalue = [1191, 292]"] ;
+8 -> 9 ;
+10 [label="gini = 0.458\nsamples = 265\nvalue = [171, 94]"] ;
+9 -> 10 ;
+11 [label="gini = 0.272\nsamples = 1218\nvalue = [1020, 198]"] ;
+9 -> 11 ;
+12 [label="['TotalWorkingYears'] <= 39.0\ngini = 0.192\nsamples = 2652\nvalue = [2367, 285]"] ;
+8 -> 12 ;
+13 [label="gini = 0.189\nsamples = 2646\nvalue = [2367, 279]"] ;
+12 -> 13 ;
+14 [label="gini = 0.0\nsamples = 6\nvalue = [0, 6]"] ;
+12 -> 14 ;
+}
