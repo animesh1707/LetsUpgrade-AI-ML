@@ -1,0 +1,13 @@
+Date,State,Cyclone name,Latitude °N,Longitude  °E,Wind speed ( kmph),Pressure (mbar),Behaviour,Sea Temperature °C,Origin ,Date(wp),State,Wind Speed(wp)kmph,Latitude (wp) ° N,Longitude (wp),End Date,Days Active,Cyclone
+6-Oct-14,,Hudhud,17.7,83.3,185,960,Very severe ,30,Andaman sea,13-Oct-14,Chattisgarh,40,15.9,85.70,10/14/2014,1,Yes
+26-Apr-19,Odisha ,Fani,2.7,89.7,215,932,Severe ,30,Indian Ocean ,4-May-19,Bhutan ,90,22.5,88.40,5-May-19,1,Yes
+5-Nov-19,West Bengal ,Bulbul ,15,90,240,976,Strongest ,31,Bay of Bengal ,10-Nov-19,Bangaladesh ,60,23.1,91.90,11-Nov-19,1,Yes
+10-Jun-19,Pakistan ,Vayu,21.8,66.8,185,970,Extremely severe ,31,Arabian sea,14-Jun-19,Gujarat ,65,20.8,68.20,17-Jun-19,3,Yes
+ 10-Nov-2018,,Gaja ,11.2,67,140,976,Very Severe ,30, Bay of Bengal ,17-Nov-18,Kalpeni ,55,9.8,73.20, 19-Nov-2018,2,Yes
+ 26-Jan-2008,, Gene,27.4,173.6,185,945,Severe ,31,Pacific ocean ,7-Feb-08,Noumea ,63,17.3,178.50, 9-Feb-2008,2,Yes
+6-Oct-18,Oman ,Luban ,12.5,61,155,978,Very Severe ,31,Arabian sea ,13-Oct-18,Salalah ,83,12.3,62.40,15-Oct-18,2,Yes
+4-Oct-01,Belize ,Iris ,12.3,59.9,230,948,Severe ,31,Atlantic ,8-Oct-18,,125,16.5,88.00,9-Oct-01,1,Yes
+3-Mar-18,Nadi,Hola ,16.1,166.9,185,952,Severe ,30,,11-Mar-18,Kingston ,74,17.6,165.40,13-Mar-18,2,Yes
+13-May-18,Gulf of Aden ,Sagar ,10.3,43.7,120,994,Severe ,,Arabian sea,13-May-18,Ethopia ,75,13.2,48.70,20-May-18,7,Yes
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
